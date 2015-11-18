@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="text_my_nanodegree_apps">My Nanodegree Apps!</string>
+    <string name="text_this_button_will_launch">This button will launch my</string>
+    <string-array name="array_my_apps">
+        <item>Spotify Streamer</item>
+        <item>Scopes App</item>
+        <item>Library App</item>
+        <item>Build It Bigger</item>
+        <item>XYZ Reader</item>
+        <item>Capstone: My own app</item>
+    </string-array>
+</resources>
